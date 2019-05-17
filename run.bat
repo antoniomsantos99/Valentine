@@ -1,1 +1,1 @@
-python3 Valentine.py
+python .\Valentine.py
