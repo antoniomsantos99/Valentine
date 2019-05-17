@@ -1,5 +1,3 @@
-#COMING SOON
-
 # Valentine
 ![alt text](https://i.imgur.com/OLJURRD.png)
 A Tinder Client on Discord?! What is this madness?!
