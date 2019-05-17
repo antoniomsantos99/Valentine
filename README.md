@@ -19,6 +19,8 @@ Since i should't comment on json files i'll explain them here:
 "WHITELIST" : Leave this blank if you want anyone to have permission to use the bot or whitelist it by putting your id here (Ex:"JohnDoe#0000")
 
 ## How to install
+Run Install.bat OR
+
 Since Pynder is somewhat outdated i am using a pull request from it which is more up to date use these commands to install it:
 ````bash
 git clone https://github.com/charliewolf/pynder.git
@@ -27,9 +29,9 @@ git fetch origin +refs/pull/211/merge
 git checkout -qf FETCH_HEAD
 python -m pip install --force-reinstall --no-deps .
 ````
-Then just do:
+Then install the rest using:
 ````bash
-pip install discord.py
+pip install -r requirements.txt
 ````
 And it should be all done!
 
